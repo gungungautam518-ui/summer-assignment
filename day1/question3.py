@@ -1,3 +1,5 @@
+# program to find factorial of a given number 
+
 n = int(input("enter a no to get its factorial : "))
 fact = 1
 if n < 0:

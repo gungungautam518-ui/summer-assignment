@@ -9,9 +9,9 @@ while temp > 0:
     temp= temp //10
 
 if rev == num:
-    print("the enterd no is palindrome")
+    print("The enterd no is palindrome")
 else:
-    print("the enterd no is not palindrome")    
+    print("The enterd no is not palindrome")    
 
 
     
